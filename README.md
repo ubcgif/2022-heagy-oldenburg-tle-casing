@@ -27,7 +27,7 @@ Lindsey J. Heagy, Douglas W. Oldenburg; Electrical and electromagnetic responses
     issn = {1070-485X},
     doi = {10.1190/tle41020083.1},
     url = {https://doi.org/10.1190/tle41020083.1},
-    eprint = {https://pubs.geoscienceworld.org/tle/article-pdf/41/2/83/5520626/tle41020083.1.pdf},
+    eprint = {https://pubs.geoscienceworld.org/tle/article-pdf/41/2/83/5520626/tle41020083.1.pdf}
 }
 
 ```
